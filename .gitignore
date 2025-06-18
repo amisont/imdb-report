@@ -4,6 +4,7 @@ data/processed/
 *.tsv
 *.csv
 *.gz
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
